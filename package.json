@@ -1,6 +1,6 @@
 {
   "name": "bees",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "yawnt <yawn.localhost@gmail.com>",
   "description": "Api documentation generator",
   "devDependencies": {
@@ -8,6 +8,7 @@
     "should": ">= 0.0.0",
     "assert": ">= 0.0.0"
   },
+  "dependencies": { "optimal": "*" },
   "scripts": {
     "test": "mocha -R spec -r should test/*-test.js"
   },
