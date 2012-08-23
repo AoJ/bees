@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/yawnt/bees.png)](http://travis-ci.org/yawnt/bees)
 bees (in Italian ```API``` means ```bees```)
 ====
 
